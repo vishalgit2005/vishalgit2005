@@ -9,7 +9,7 @@
 <h1 align="center"></h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalgit2005" alt="vishalgit2005" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Spring Boot,Machine Learning*
+- 🌱 I’m currently learning *Java,Spring Boot,Machine Learning*
 
 - 👨‍💻 All of my projects are available at [http://vishalsandakelum.great-site.net/](http://vishalsandakelum.great-site.net/)
 
